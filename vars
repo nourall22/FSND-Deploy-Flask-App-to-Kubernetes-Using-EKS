@@ -1,0 +1,2 @@
+export JWT_SECRET="abc123abc1234"
+export LOG_LEVEL="INFO"
